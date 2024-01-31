@@ -6,7 +6,7 @@ x = 7
 y = 8
 print(x+y)
 
-x = 9
+x = 10
 y = 0
 z = x + y
 print(z)
@@ -19,4 +19,3 @@ def myfunc():
     global kl
     kl = "something"
 
-    
