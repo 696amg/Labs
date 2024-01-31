@@ -9,4 +9,14 @@ print(type(x))
 
 g = ["large", "big"]
 print(type(g))
+ 
+k = ("lake", "river")
+print(type(k))
+
+l = {"name" : "Artem", "age" : 18}
+print(type(l))
+
+o = True 
+print(type(o))
+
 
