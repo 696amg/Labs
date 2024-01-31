@@ -17,5 +17,5 @@ x = y = z = "Earth"
 
 def myfunc():
     global kl
-    kl = "something"
+    kl = "something 1"
 
